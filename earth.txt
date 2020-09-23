@@ -5,3 +5,4 @@ changes on local
 change on remote
 change on remote again
 change on local again
+write a line local

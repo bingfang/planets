@@ -4,6 +4,5 @@ Pluto is too cold to have life.
 changes on local
 change on remote
 change on remote again
-change on local again
 write a line local
-write a line on web
+write sth but not commit
